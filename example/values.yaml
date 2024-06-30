@@ -1,0 +1,9 @@
+namespace: example
+
+appName: express
+
+outterPort: 31313
+
+image:
+  name: tpneik/appkube
+  tag: latest
